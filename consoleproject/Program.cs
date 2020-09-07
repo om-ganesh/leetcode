@@ -10,7 +10,9 @@ namespace consoleproject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Welcome to Leetcode World");
+
+            new TwoSum().Execute();
 
             Console.ReadLine();
         }
