@@ -12,7 +12,8 @@ namespace consoleproject
         {
             Console.WriteLine("Welcome to Leetcode World");
 
-            new TwoSum().Execute();
+            // new TwoSum().Execute();
+            new AddSinglyLinkedLists().Execute();
 
             Console.ReadLine();
         }
