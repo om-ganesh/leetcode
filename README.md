@@ -16,5 +16,10 @@ Solution: [AddSinglyLinkedLists.cs](consoleproject/AddSinglyLinkedLists.cs)
 ### **Longest Substring without repeating characters**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/6  
 Problem: https://leetcode.com/problems/longest-substring-without-repeating-characters/   
-Solution: [LongestSubstring.cs](LongestSubstring/TwoSum.cs)  
+Solution: [LongestSubstring.cs](consoleproject/LongestSubstring.cs)  
+
+### **Median of two sorted Array**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/8  
+Problem: https://leetcode.com/problems/median-of-two-sorted-arrays/   
+Solution: [MedianOfTwoArray.cs](consoleproject/MedianOfTwoArray.cs)  
 
