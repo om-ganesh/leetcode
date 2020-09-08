@@ -13,8 +13,9 @@ namespace consoleproject
             Console.WriteLine("Welcome to Leetcode World");
 
             // new TwoSum().Execute();
-            //new AddSinglyLinkedLists().Execute();
-            new LongestSubstring().Execute();
+            // new AddSinglyLinkedLists().Execute();
+            // new LongestSubstring().Execute();
+            new MedianOfTwoArray().Execute();
             Console.ReadLine();
         }
     }
