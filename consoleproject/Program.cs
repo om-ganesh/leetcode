@@ -15,7 +15,9 @@ namespace consoleproject
             // new TwoSum().Execute();
             // new AddSinglyLinkedLists().Execute();
             // new LongestSubstring().Execute();
-            new MedianOfTwoArray().Execute();
+            //new MedianOfTwoArray().Execute();
+
+            new MoveZerosToEnd().Execute();
             Console.ReadLine();
         }
     }
