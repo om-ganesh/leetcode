@@ -17,6 +17,9 @@ namespace consoleproject
             // new MedianOfTwoArray().Execute();
 
             // new LongestSubstring().Execute();
+            //new MedianOfTwoArray().Execute();
+
+            //new MoveZerosToEnd().Execute();
             new MinimumWindowSubstring().Execute();
 
             Console.ReadLine();

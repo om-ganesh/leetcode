@@ -46,6 +46,7 @@
     <Compile Include="AddSinglyLinkedLists.cs" />
     <Compile Include="LongestSubstring.cs" />
     <Compile Include="MedianOfTwoArray.cs" />
+    <Compile Include="MoveZerosToEnd.cs" />
     <Compile Include="MinimumWindowSubstring.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -29,3 +29,8 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/6
 Problem: https://leetcode.com/problems/minimum-window-substring/    
 Solution: [MinimumWindowSubstring.cs](consoleproject/MinimumWindowSubstring.cs)  
 
+### **Move Zeros to end**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/12  
+Problem: https://leetcode.com/problems/move-zeroes/     
+Solution: [MoveZerosToEnd.cs](consoleproject/MoveZerosToEnd.cs)  
+
