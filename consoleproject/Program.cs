@@ -12,15 +12,19 @@ namespace consoleproject
         {
             Console.WriteLine("Welcome to Leetcode World");
 
-            // new TwoSum().Execute();
-            // new AddSinglyLinkedLists().Execute();
-            // new MedianOfTwoArray().Execute();
+            //new TwoSum().Execute();
+            //new AddSinglyLinkedLists().Execute();
+            //new MedianOfTwoArray().Execute();
 
-            // new LongestSubstring().Execute();
+            //new LongestSubstring().Execute();
             //new MedianOfTwoArray().Execute();
 
             //new MoveZerosToEnd().Execute();
-            new MinimumWindowSubstring().Execute();
+            //new MinimumWindowSubstring().Execute();
+
+            //new MinManhattanDistance().Execute();
+
+            new LongestConsecutiveSequence().Execute();
 
             Console.ReadLine();
         }

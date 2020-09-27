@@ -44,8 +44,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AddSinglyLinkedLists.cs" />
+    <Compile Include="LongestConsecutiveSequence.cs" />
     <Compile Include="LongestSubstring.cs" />
     <Compile Include="MedianOfTwoArray.cs" />
+    <Compile Include="MinManhattanDistance.cs" />
     <Compile Include="MoveZerosToEnd.cs" />
     <Compile Include="MinimumWindowSubstring.cs" />
     <Compile Include="Program.cs" />
