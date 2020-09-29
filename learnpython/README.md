@@ -15,3 +15,7 @@ Solution: [example2.py](learnpython/example2.py)
 Issue:  https://github.com/om-ganesh/leetcode/issues/21  
 Problem:https://www.lintcode.com/problem/rotate-string/     
 Solution: [rotatestringbyoffset.py](learnpython/rotatestringbyoffset.py)  
+
+### **Does String Has all unique characters**  
+Problem:https://www.lintcode.com/problem/unique-characters/     
+Solution: [isstringunique.py](learnpython/isstringunique.py)  

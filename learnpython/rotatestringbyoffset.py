@@ -1,3 +1,4 @@
+#https://www.lintcode.com/problem/rotate-string/description
 class Solution:
     """
     @param str: An array of char

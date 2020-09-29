@@ -28,9 +28,11 @@ namespace consoleproject
 
             //new RotateStringInplaceByOffset().Execute();
             //new RotateStringToMatchOther().Execute();
-            //new FirstRecurringCharacterInString().Execute();
+            //new PalindromeString().Execute();
 
-            new PalindromeString().Execute();
+            //new FirstRecurringCharacterInString().Execute();
+            new FirstUniqueCharacter().Execute();
+
             Console.ReadLine();
         }
     }
