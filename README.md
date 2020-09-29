@@ -65,3 +65,8 @@ Solution: [PalindromeString.cs](consoleproject/PalindromeString.cs)
 Issue:  https://github.com/om-ganesh/leetcode/issues/25  
 Problem: CSDojo YouTube Channel
 Solution: [FirstRecurringCharacterInString.cs](consoleproject/FirstRecurringCharacterInString.cs)  
+
+### **Find first unique character in array**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/29  
+Problem: https://leetcode.com/problems/first-unique-character-in-a-string/  
+Solution: [FirstUniqueCharacter.cs](consoleproject/FirstUniqueCharacter.cs)  

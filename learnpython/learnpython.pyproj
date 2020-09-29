@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>daa71626-c000-44da-8acb-be06d56a86ac</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>example1.py</StartupFile>
+    <StartupFile>isstringunique.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -23,6 +23,9 @@
   <ItemGroup>
     <Compile Include="example1.py" />
     <Compile Include="example2.py" />
+    <Compile Include="isstringunique.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="rotatestringbyoffset.py">
       <SubType>Code</SubType>
     </Compile>
