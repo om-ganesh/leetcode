@@ -34,3 +34,18 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/12
 Problem: https://leetcode.com/problems/move-zeroes/     
 Solution: [MoveZerosToEnd.cs](consoleproject/MoveZerosToEnd.cs)  
 
+### **Move Zeros to end**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/15  
+Problem: https://leetcode.com/problems/min-cost-to-connect-all-points/     
+Solution: [MinManhattanDistance.cs](consoleproject/MinManhattanDistance.cs)  
+
+
+### **Longest Consecutive Sequence**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/19  
+Problem: https://leetcode.com/problems/longest-consecutive-sequence/     
+Solution: [LongestConsecutiveSequence.cs](consoleproject/LongestConsecutiveSequence.cs)  
+
+### **Rotate String inplace by offset**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/21  
+Problem:https://www.lintcode.com/problem/rotate-string/     
+Solution: [RotateStringInplaceByOffset.cs](consoleproject/RotateStringInplaceByOffset.cs)  

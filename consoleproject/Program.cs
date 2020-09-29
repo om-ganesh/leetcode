@@ -24,8 +24,9 @@ namespace consoleproject
 
             //new MinManhattanDistance().Execute();
 
-            new LongestConsecutiveSequence().Execute();
+            //new LongestConsecutiveSequence().Execute();
 
+            new RotateStringInplaceByOffset().Execute();
             Console.ReadLine();
         }
     }
