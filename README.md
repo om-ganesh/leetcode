@@ -49,3 +49,8 @@ Solution: [LongestConsecutiveSequence.cs](consoleproject/LongestConsecutiveSeque
 Issue:  https://github.com/om-ganesh/leetcode/issues/21  
 Problem:https://www.lintcode.com/problem/rotate-string/     
 Solution: [RotateStringInplaceByOffset.cs](consoleproject/RotateStringInplaceByOffset.cs)  
+
+### **Rotate StringA to check if matches with StringB by offset**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/23  
+Problem:https://leetcode.com/problems/rotate-string       
+Solution: [RotateStringToMatchOther.cs](consoleproject/RotateStringToMatchOther.cs)  
