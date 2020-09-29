@@ -27,8 +27,9 @@ namespace consoleproject
             //new LongestConsecutiveSequence().Execute();
 
             //new RotateStringInplaceByOffset().Execute();
+            //new RotateStringToMatchOther().Execute();
+            new FirstRecurringCharacterInString().Execute();
 
-            new RotateStringToMatchOther().Execute();
             Console.ReadLine();
         }
     }

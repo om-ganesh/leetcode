@@ -54,3 +54,8 @@ Solution: [RotateStringInplaceByOffset.cs](consoleproject/RotateStringInplaceByO
 Issue:  https://github.com/om-ganesh/leetcode/issues/23  
 Problem:https://leetcode.com/problems/rotate-string       
 Solution: [RotateStringToMatchOther.cs](consoleproject/RotateStringToMatchOther.cs)  
+
+### **Rotate StringA to check if matches with StringB by offset**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/25  
+Problem: CSDojo YouTube Channel
+Solution: [FirstRecurringCharacterInString.cs](consoleproject/FirstRecurringCharacterInString.cs)  
