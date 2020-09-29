@@ -55,7 +55,13 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/23
 Problem:https://leetcode.com/problems/rotate-string       
 Solution: [RotateStringToMatchOther.cs](consoleproject/RotateStringToMatchOther.cs)  
 
-### **Rotate StringA to check if matches with StringB by offset**  
+### **Valid Palindrome**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/26  
+Problem:https://leetcode.com/problems/valid-palindrome/      
+Solution: [PalindromeString.cs](consoleproject/PalindromeString.cs)  
+
+
+### **Find first recurring character in array**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/25  
 Problem: CSDojo YouTube Channel
 Solution: [FirstRecurringCharacterInString.cs](consoleproject/FirstRecurringCharacterInString.cs)  
