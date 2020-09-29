@@ -29,6 +29,8 @@ namespace consoleproject
             //new RotateStringInplaceByOffset().Execute();
 
             new RotateStringToMatchOther().Execute();
+
+            new PalindromeString().Execute();
             Console.ReadLine();
         }
     }

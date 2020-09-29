@@ -54,3 +54,8 @@ Solution: [RotateStringInplaceByOffset.cs](consoleproject/RotateStringInplaceByO
 Issue:  https://github.com/om-ganesh/leetcode/issues/23  
 Problem:https://leetcode.com/problems/rotate-string       
 Solution: [RotateStringToMatchOther.cs](consoleproject/RotateStringToMatchOther.cs)  
+
+### **Valid Palindrome**  
+Issue:  https://github.com/om-ganesh/leetcode/issues/26  
+Problem:https://leetcode.com/problems/valid-palindrome/      
+Solution: [PalindromeString.cs](consoleproject/PalindromeString.cs)  
