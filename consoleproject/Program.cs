@@ -31,8 +31,10 @@ namespace consoleproject
             //new PalindromeString().Execute();
 
             //new FirstRecurringCharacterInString().Execute();
-            new FirstUniqueCharacter().Execute();
+            //new FirstUniqueCharacter().Execute();
 
+            //Problems from Kul (2020-10-18)
+            new MinDifferenceBetweenArrays().Execute();
             Console.ReadLine();
         }
     }

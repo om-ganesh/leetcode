@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="AddSinglyLinkedLists.cs" />
     <Compile Include="FirstUniqueCharacter.cs" />
+    <Compile Include="MinDifferenceBetweenArrays.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="FirstRecurringCharacterInString.cs" />
     <Compile Include="LongestConsecutiveSequence.cs" />

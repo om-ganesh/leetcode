@@ -66,7 +66,7 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/25
 Problem: CSDojo YouTube Channel
 Solution: [FirstRecurringCharacterInString.cs](consoleproject/FirstRecurringCharacterInString.cs)  
 
-### **Find first unique character in array**  
+### **Find smallest value difference between arrays**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/29  
-Problem: https://leetcode.com/problems/first-unique-character-in-a-string/  
-Solution: [FirstUniqueCharacter.cs](consoleproject/FirstUniqueCharacter.cs)  
+Problem: https://www.lintcode.com/problem/the-smallest-difference/description
+Solution: [MinDifferenceBetweenArrays.cs](consoleproject/MinDifferenceBetweenArrays.cs)  
