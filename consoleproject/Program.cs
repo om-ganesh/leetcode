@@ -12,6 +12,8 @@ namespace consoleproject
         {
             Console.WriteLine("Welcome to Leetcode World");
 
+            new AAATestClass().Execute();
+
             //new TwoSum().Execute();
             //new AddSinglyLinkedLists().Execute();
             //new MedianOfTwoArray().Execute();
@@ -31,7 +33,7 @@ namespace consoleproject
             //new PalindromeString().Execute();
 
             //new FirstRecurringCharacterInString().Execute();
-            new FirstUniqueCharacter().Execute();
+            //new FirstUniqueCharacter().Execute();
 
             Console.ReadLine();
         }
