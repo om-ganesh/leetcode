@@ -20,4 +20,7 @@ namespace consoleproject
             return arr.Aggregate((x, y) => x + y);
         }
     }
+
+
+    
 }

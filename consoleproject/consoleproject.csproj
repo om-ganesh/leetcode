@@ -46,6 +46,7 @@
     <Compile Include="AAATestClass.cs" />
     <Compile Include="AddSinglyLinkedLists.cs" />
     <Compile Include="FirstUniqueCharacter.cs" />
+    <Compile Include="LruCacheImplementation.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="FirstRecurringCharacterInString.cs" />
     <Compile Include="LongestConsecutiveSequence.cs" />
