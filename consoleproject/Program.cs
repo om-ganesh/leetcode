@@ -35,6 +35,8 @@ namespace consoleproject
             //new FirstRecurringCharacterInString().Execute();
             //new FirstUniqueCharacter().Execute();
 
+            new ArrayFormationThroughConcatenation().Execute();
+
             Console.ReadLine();
         }
     }
