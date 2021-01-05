@@ -18,7 +18,6 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/8
 Problem: https://leetcode.com/problems/median-of-two-sorted-arrays/   
 Solution: [MedianOfTwoArray.cs](consoleproject/MedianOfTwoArray.cs)  
 
-## CATEGORY - SLIDING WINDOW ALGORITHM
 ### **Longest Substring without repeating characters**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/6  
 Problem: https://leetcode.com/problems/longest-substring-without-repeating-characters/   
@@ -34,11 +33,10 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/12
 Problem: https://leetcode.com/problems/move-zeroes/     
 Solution: [MoveZerosToEnd.cs](consoleproject/MoveZerosToEnd.cs)  
 
-### **Move Zeros to end**  
+### **Minimum cost to connect all given coordinate points**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/15  
 Problem: https://leetcode.com/problems/min-cost-to-connect-all-points/     
 Solution: [MinManhattanDistance.cs](consoleproject/MinManhattanDistance.cs)  
-
 
 ### **Longest Consecutive Sequence**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/19  
@@ -50,6 +48,11 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/21
 Problem:https://www.lintcode.com/problem/rotate-string/     
 Solution: [RotateStringInplaceByOffset.cs](consoleproject/RotateStringInplaceByOffset.cs)  
 
+### **Rotate Array In place**  
+Issue: Given an array, rotate the array to the right by k steps, where k is non-negative.  
+Problem:https://leetcode.com/problems/rotate-array/      
+Solution: [RotateArray.cs](consoleproject/RotateArray.cs)  
+
 ### **Rotate StringA to check if matches with StringB by offset**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/23  
 Problem:https://leetcode.com/problems/rotate-string       
@@ -60,7 +63,6 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/26
 Problem:https://leetcode.com/problems/valid-palindrome/      
 Solution: [PalindromeString.cs](consoleproject/PalindromeString.cs)  
 
-
 ### **Find first recurring character in array**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/25  
 Problem: CSDojo YouTube Channel
@@ -70,3 +72,11 @@ Solution: [FirstRecurringCharacterInString.cs](consoleproject/FirstRecurringChar
 Issue:  https://github.com/om-ganesh/leetcode/issues/29  
 Problem: https://leetcode.com/problems/first-unique-character-in-a-string/  
 Solution: [FirstUniqueCharacter.cs](consoleproject/FirstUniqueCharacter.cs)  
+
+### **Check Array Formation Through Concatenation**  
+Problem: https://leetcode.com/problems/check-array-formation-through-concatenation/  
+Solution: [ArrayFormationThroughConcatenation.cs](consoleproject/ArrayFormationThroughConcatenation.cs)  
+
+### **Find only present single element, except all others are available twice in an array.**  
+Problem: https://leetcode.com/problems/single-number/    
+Solution: [SingleNumber.cs](consoleproject/SingleNumber.cs)  

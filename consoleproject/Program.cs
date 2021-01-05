@@ -36,7 +36,9 @@ namespace consoleproject
             //new FirstUniqueCharacter().Execute();
 
             //new ArrayFormationThroughConcatenation().Execute();
-            new RotateArray().Execute();
+            //new RotateArray().Execute();
+
+            new SingleNumberSolution().Execute();
 
             Console.ReadLine();
         }

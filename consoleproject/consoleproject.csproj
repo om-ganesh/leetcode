@@ -60,6 +60,7 @@
     <Compile Include="RotateArray.cs" />
     <Compile Include="RotateStringInplaceByOffset.cs" />
     <Compile Include="RotateStringToMatchOther.cs" />
+    <Compile Include="SingleNumberSolution.cs" />
     <Compile Include="TwoSum.cs" />
   </ItemGroup>
   <ItemGroup>
