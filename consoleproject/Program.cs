@@ -37,7 +37,8 @@ namespace consoleproject
             //new SingleNumberSolution().Execute();
             //new SodukoValidator().Execute();
 
-            new ReplaceAllQuestionMarks().Execute();
+            //new ReplaceAllQuestionMarks().Execute();
+            new MaxInContiguousSubArray().Execute();
 
             Console.ReadLine();
         }

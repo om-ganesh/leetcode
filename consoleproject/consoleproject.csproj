@@ -47,6 +47,7 @@
     <Compile Include="AddSinglyLinkedLists.cs" />
     <Compile Include="ArrayFormationThroughConcatenation.cs" />
     <Compile Include="FirstUniqueCharacter.cs" />
+    <Compile Include="MaxInContiguousSubArray.cs" />
     <Compile Include="PalindromeString.cs" />
     <Compile Include="FirstRecurringCharacterInString.cs" />
     <Compile Include="LongestConsecutiveSequence.cs" />
