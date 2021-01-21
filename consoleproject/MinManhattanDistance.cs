@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace consoleproject
 {
+    /// <summary>
+    /// https://leetcode.com/problems/min-cost-to-connect-all-points/
+    /// </summary>
     class MinManhattanDistance
     {
         List<int[,]> data = new List<int[,]>();

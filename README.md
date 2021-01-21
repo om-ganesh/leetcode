@@ -43,11 +43,6 @@ Issue:  https://github.com/om-ganesh/leetcode/issues/19
 Problem: https://leetcode.com/problems/longest-consecutive-sequence/     
 Solution: [LongestConsecutiveSequence.cs](consoleproject/LongestConsecutiveSequence.cs)  
 
-### **Rotate String inplace by offset**  
-Issue:  https://github.com/om-ganesh/leetcode/issues/21  
-Problem:https://www.lintcode.com/problem/rotate-string/     
-Solution: [RotateStringInplaceByOffset.cs](consoleproject/RotateStringInplaceByOffset.cs)  
-
 ### **Rotate Array In place**  
 Issue: Given an array, rotate the array to the right by k steps, where k is non-negative.  
 Problem:https://leetcode.com/problems/rotate-array/      
@@ -61,11 +56,12 @@ Solution: [RotateStringToMatchOther.cs](consoleproject/RotateStringToMatchOther.
 ### **Valid Palindrome**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/26  
 Problem:https://leetcode.com/problems/valid-palindrome/      
-Solution: [PalindromeString.cs](consoleproject/PalindromeString.cs)  
+Solution: [PalindromeString.cs](consoleproject/PalindromeString.cs)       
 
 ### **Find first recurring character in array**  
 Issue:  https://github.com/om-ganesh/leetcode/issues/25  
-Problem: CSDojo YouTube Channel
+Problem: https://leetcode.com/problems/first-unique-character-in-a-string/  
+Reference: CS Dojo Youtube (https://www.youtube.com/watch?v=GJdiM-muYqc)  
 Solution: [FirstRecurringCharacterInString.cs](consoleproject/FirstRecurringCharacterInString.cs)  
 
 ### **Find first unique character in array**  
@@ -80,3 +76,7 @@ Solution: [ArrayFormationThroughConcatenation.cs](consoleproject/ArrayFormationT
 ### **Find only present single element, except all others are available twice in an array.**  
 Problem: https://leetcode.com/problems/single-number/    
 Solution: [SingleNumber.cs](consoleproject/SingleNumber.cs)  
+
+### **Find if the given 2d array soduko is valid one (check rows, cols, and box).**  
+Problem: https://leetcode.com/problems/valid-sudoku    
+Solution: [SodukoValidator.cs](consoleproject/SodukoValidator.cs)  

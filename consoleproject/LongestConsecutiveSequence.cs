@@ -6,6 +6,10 @@ using System.Threading.Tasks;
 
 namespace consoleproject
 {
+    /// <summary>
+    /// Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.
+    /// https://leetcode.com/problems/longest-consecutive-sequence/
+    /// </summary>
     class LongestConsecutiveSequence
     {
         List<int[]> data = new List<int[]>();

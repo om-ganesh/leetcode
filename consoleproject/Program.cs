@@ -25,10 +25,8 @@ namespace consoleproject
             //new MinimumWindowSubstring().Execute();
 
             //new MinManhattanDistance().Execute();
-
             //new LongestConsecutiveSequence().Execute();
 
-            //new RotateStringInplaceByOffset().Execute();
             //new RotateStringToMatchOther().Execute();
             //new PalindromeString().Execute();
 
@@ -39,6 +37,7 @@ namespace consoleproject
             //new RotateArray().Execute();
 
             new SingleNumberSolution().Execute();
+            new SodukoValidator().Execute();
 
             Console.ReadLine();
         }
