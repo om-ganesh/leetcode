@@ -80,3 +80,7 @@ Solution: [SingleNumber.cs](consoleproject/SingleNumber.cs)
 ### **Find if the given 2d array soduko is valid one (check rows, cols, and box).**  
 Problem: https://leetcode.com/problems/valid-sudoku    
 Solution: [SodukoValidator.cs](consoleproject/SodukoValidator.cs)  
+
+### **Find largest sum from the contiguous elements subarray from given array of numbers**  
+Problem: https://leetcode.com/problems/maximum-subarray/  
+Solution: [MaxInContiguousSubArray.cs](consoleproject/MaxInContiguousSubArray.cs)  
