@@ -57,6 +57,7 @@
     <Compile Include="MinimumWindowSubstring.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReplaceAllQuestionMarks.cs" />
     <Compile Include="RotateArray.cs" />
     <Compile Include="RotateStringToMatchOther.cs" />
     <Compile Include="SingleNumberSolution.cs" />

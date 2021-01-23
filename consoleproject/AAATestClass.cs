@@ -10,14 +10,7 @@ namespace consoleproject
     {
         public void Execute()
         {
-            int[] data = new int[] {3,3 };
-            var result = FindSolution(data);
-            Console.WriteLine(string.Join(",", result));
-        }
 
-        private int FindSolution(int[] arr)
-        {
-            return arr.Aggregate((x, y) => x + y);
         }
     }
 }
