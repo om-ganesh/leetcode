@@ -38,8 +38,9 @@ namespace consoleproject
             //new SodukoValidator().Execute();
 
             //new ReplaceAllQuestionMarks().Execute();
-            new MaxInContiguousSubArray().Execute();
+            //new MaxInContiguousSubArray().Execute();
 
+            new LongestSubstringKDistinct().Execute();
             Console.ReadLine();
         }
     }
