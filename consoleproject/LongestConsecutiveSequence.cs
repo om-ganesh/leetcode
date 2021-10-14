@@ -21,6 +21,8 @@ namespace consoleproject
             data.Add(new int[] { 10 });
             data.Add(new int[] { 5, 2, 99, 100, 3, 4, 7, 8 });
             data.Add(new int[] { -5, 0, 5 });
+            data.Add(DataReader.ReadCsvData(@"data/LongestConsecutiveSequence.txt"));
+            //Good dataset https://leetcode.com/submissions/detail/571055447/testcase/
         }
 
 
@@ -28,19 +30,38 @@ namespace consoleproject
         {
             data.ForEach(k =>
             {
-                Console.WriteLine($"Longest consecutive sequence for fata:{string.Join(",", k)} is {LongestConsecutive(k)}");
+                //Console.WriteLine($"Longest consecutive sequence for data:{string.Join(",", k)} is {LongestConsecutive(k)}");
+                Console.WriteLine($"Longest consecutive sequence is {LongestConsecutive(k)}");
             });
         }
 
         private int LongestConsecutive(int[] nums)
         {
-
-            HashSet<int> hash = new HashSet<int>();
-            foreach (int item in nums)
+            if(nums.Length < 2 )
             {
-                hash.Add(item);
+                return nums.Length;
             }
+            HashSet<int> hash = new HashSet<int>(nums);
+            int result = 0;
+            foreach(int x in nums)
+            {
+                if(!hash.Contains(x-1))
+                {
+                    int y = x;
+                    while (hash.Contains(++y)) { }
+                    result = Math.Max(result, y - x);
+                }
+            }
+            return result;
+        }
 
+
+
+        // Using the two Hashsets (Time exceeded error)
+        private int LongestConsecutive_Old(int[] nums)
+        {
+
+            HashSet<int> hash = new HashSet<int>(nums);
             HashSet<int> visited = new HashSet<int>();
             int maxLength = 0;
             int length = 0;

@@ -46,6 +46,7 @@
     <Compile Include="AAATestClass.cs" />
     <Compile Include="AddSinglyLinkedLists.cs" />
     <Compile Include="ArrayFormationThroughConcatenation.cs" />
+    <Compile Include="DataReader.cs" />
     <Compile Include="FirstUniqueCharacter.cs" />
     <Compile Include="LongestSubstringKDistinct.cs" />
     <Compile Include="MaxInContiguousSubArray.cs" />
@@ -68,6 +69,11 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="data\LongestConsecutiveSequence.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

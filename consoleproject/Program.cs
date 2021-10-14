@@ -23,7 +23,7 @@ namespace consoleproject
             //new MinimumWindowSubstring().Execute();
 
             //new MinManhattanDistance().Execute();
-            //new LongestConsecutiveSequence().Execute();
+            new LongestConsecutiveSequence().Execute();
 
             //new RotateStringToMatchOther().Execute();
             //new PalindromeString().Execute();
@@ -40,7 +40,7 @@ namespace consoleproject
             //new ReplaceAllQuestionMarks().Execute();
             //new MaxInContiguousSubArray().Execute();
 
-            new LongestSubstringKDistinct().Execute();
+            //new LongestSubstringKDistinct().Execute();
             Console.ReadLine();
         }
     }
