@@ -10,7 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		README.md = README.md
 	EndProjectSection
 EndProject
-Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "learnpython", "learnpython\learnpython.pyproj", "{DAA71626-C000-44DA-8ACB-BE06D56A86AC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NewYorkCoders", "NewYorkCoders\NewYorkCoders.csproj", "{C4E58072-5B21-46BD-8B51-0A22966429D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -22,8 +22,10 @@ Global
 		{E6BCD148-FB00-4621-91A9-DDF90DF2DD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E6BCD148-FB00-4621-91A9-DDF90DF2DD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E6BCD148-FB00-4621-91A9-DDF90DF2DD0C}.Release|Any CPU.Build.0 = Release|Any CPU
-		{DAA71626-C000-44DA-8ACB-BE06D56A86AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{DAA71626-C000-44DA-8ACB-BE06D56A86AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E58072-5B21-46BD-8B51-0A22966429D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4E58072-5B21-46BD-8B51-0A22966429D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4E58072-5B21-46BD-8B51-0A22966429D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4E58072-5B21-46BD-8B51-0A22966429D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
